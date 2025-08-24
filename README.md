@@ -1,7 +1,7 @@
 # Hi there, I'm John Carlo C. Rica 👋
 
 ## 💫 About Me:
-🔭 Aspiring Frontend Developer<br>
+🔭 Aspiring Data Analyst/Data Engineer<br>
 🌱 Currently learning Data Engineering through a scholarship with Data Engineering Pilipinas in partnership with DataCamp<br>
 🎓 Studied Information Technology at Bulacan State University, Sarmiento Campus<br>
 🚀 Always exploring new technologies and best practices in web development and data<br>
